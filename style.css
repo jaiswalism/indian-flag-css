@@ -1,0 +1,36 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+   }
+    #flag{
+        border: 5px solid black;
+        width: 450px;
+        height: 299.9px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        translate: -50% -50%;
+    }
+    .saffron{
+        background-color: #FF9933;
+        width: 450px;
+        height: 100px;
+    }
+    .white{
+        background-color: #ffffff;
+        width: 450px;
+        height: 100px;
+    }
+    .chakra{
+        height: 90px;
+        width: 90px;
+        position: relative;
+        top: 5px;
+        left: 180px;
+    }
+    .green{
+        background-color: #138808;
+        width: 450px;
+        height: 100px;
+    }
